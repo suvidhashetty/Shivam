@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class RentedBook {
 
 
-
+	//Private Book
     private Book book;
     private LocalDate rentedDate;
 
